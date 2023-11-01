@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Pentsok
-- 👀 I’m interested in Tibetanizing tech 
-- 🌱 I’m currently collecting Tibetan (digital) typefaces 
+- 👀 I’m interested in localizing tech 
+- 🌱 I’m currently collecting and doing reserach on Tibetan typefaces 
 - 💞️ I’m looking to collaborate on Tibetanization of terminology and tech products 
-- 📫 send me a message @ Pentsok at Gmail dot com
 
 <!---
 Pentsok/Pentsok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
