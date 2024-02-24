@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TsangPun
+- 👋 Hi, I’m @Pentsok
 - 👀 I’m interested in localizing tech 
-- 🌱 I’m currently collecting and doing reserach on Tibetan typefaces 
+- 🌱 I’m currently collecting and doing research on Tibetan typefaces 
 - 💞️ I’m looking to collaborate on Tibetanization of terminology and tech products 
 
 <!---
